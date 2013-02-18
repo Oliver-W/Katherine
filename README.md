@@ -3,9 +3,9 @@ Katherine is a small (but perfectly formed!) 'square one' for web designers. It'
 
 ## Katherine features:
 + A highly edited/ruined version of the skeleton framework - using percentages rather than pixels
-+ Sexyness
++ Massive amounts of raw sexyness
 
 #### v1
-+ The first upload! Exciting stuff! Much,. much more to come.
++ The first upload! Exciting stuff! Much, much more to come, this is just to set it all up :)
 
-Katherine was originally built by Oliver Williams - who ripped off everyone else xoxo
+Katherine was originally built by Oliver Williams - who ripped off everyone else in the process xoxo
